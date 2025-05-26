@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the capital of Zambia?",
+    "options": [
+      "Lusaka",
+      "Kitwe",
+      "Ndola",
+      "Livingstone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which year did Zambia gain independence?",
+    "options": [
+      "1960",
+      "1964",
+      "1970",
+      "1958"
+    ],
+    "correctIndex": 1
+  }
+]
